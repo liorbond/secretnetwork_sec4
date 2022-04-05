@@ -1,0 +1,38 @@
+{
+  "NodeInfo": {
+    "protocol_version": {
+      "p2p": "8",
+      "block": "11",
+      "app": "0"
+    },
+    "id": "4bbd92bcff3bc965b41eb7f76655b9bcf5e48a7c",
+    "listen_addr": "tcp://0.0.0.0:26656",
+    "network": "secret-4",
+    "version": "0.34.14",
+    "channels": "40202122233038606100",
+    "moniker": "liorbond",
+    "other": {
+      "tx_index": "on",
+      "rpc_address": "tcp://0.0.0.0:26657"
+    }
+  },
+  "SyncInfo": {
+    "latest_block_hash": "C9F4F98B6BC47B322226551E04FBC5470C359DDF08B1468E6C7BFCEB2722328A",
+    "latest_app_hash": "0830ADF0F06D0FBDA798DF60F99717836BBD1A66C2BAB9340FFFE51A28DDBF7A",
+    "latest_block_height": "821905",
+    "latest_block_time": "2021-11-11T04:14:47.541956076Z",
+    "earliest_block_hash": "C168FE742EC3DCD6911B31CEE7F0C58EF7621EB85E87193875CD9C2C7E74473C",
+    "earliest_app_hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+    "earliest_block_height": "813800",
+    "earliest_block_time": "2021-11-10T15:00:00Z",
+    "catching_up": true
+  },
+  "ValidatorInfo": {
+    "Address": "E05A5A00E18587A80B32E21DD8CCEC5EA5CFED68",
+    "PubKey": {
+      "type": "tendermint/PubKeyEd25519",
+      "value": "SkJy10ggrxHPE/ZnvblUyQGwO73Qbixz+kCgeaLpJIw="
+    },
+    "VotingPower": "0"
+  }
+}
